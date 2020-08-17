@@ -1,0 +1,7 @@
+spring:
+  thymeleaf:
+    cache: false                    #开启模板缓存（默认值：true）
+    mode: HTML5                     #要运用于模板之上的模板模式。另见StandardTemplate-ModeHandlers(默认值：HTML5)
+    encoding: UTF-8                 #模板编码
+    prefix: classpath:/templates/   #在构建URL时添加到视图名称前的前缀（默认值：classpath:/templates/），多个位置用逗号隔开
+    suffix: .html                   #在构建URL时添加到视图名称后的后缀（默认值：.html）
