@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot/01springboot-base/01springboot-base.iml" filepath="$PROJECT_DIR$/boot/01springboot-base/01springboot-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/02springboot-config/02springboot-config.iml" filepath="$PROJECT_DIR$/boot/02springboot-config/02springboot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/03springboot-mybatis/03springboot-mybatis.iml" filepath="$PROJECT_DIR$/boot/03springboot-mybatis/03springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/04springboot-jdbctemplate/04springboot-jdbctemplate.iml" filepath="$PROJECT_DIR$/boot/04springboot-jdbctemplate/04springboot-jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/05springboot-mutilmybatis/05springboot-mutilmybatis.iml" filepath="$PROJECT_DIR$/boot/05springboot-mutilmybatis/05springboot-mutilmybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/06springboot-mutiljdbctemplate/06springboot-mutiljdbctemplate.iml" filepath="$PROJECT_DIR$/boot/06springboot-mutiljdbctemplate/06springboot-mutiljdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/07springboot-aop/07springboot-aop.iml" filepath="$PROJECT_DIR$/boot/07springboot-aop/07springboot-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/08springboot-thymeleaf/08springboot-thymeleaf.iml" filepath="$PROJECT_DIR$/boot/08springboot-thymeleaf/08springboot-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+    </modules>
+  </component>
+</project>
