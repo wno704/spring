@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="02springboot-security-authentication" />
+        <module name="08springboot-shiro-jwt" />
+        <module name="03springboot-shiro-authorization" />
+        <module name="03springboot-mybatis" />
+        <module name="15springboot-exception" />
+        <module name="17springboot-mapper-pagehelper" />
+        <module name="20springboot-Prometheus" />
+        <module name="12springboot-test" />
+        <module name="05springboot-shiro-ehcache" />
+        <module name="01springboot-security-base" />
+        <module name="09springboot-security-oauth2guide" />
+        <module name="06springboot-shiro-thymeleaf-tag" />
+        <module name="12springboot-security-oauth2sso" />
+        <module name="08springboot-thymeleaf" />
+        <module name="06springboot-mutiljdbctemplate" />
+        <module name="10springboot-ehcache" />
+        <module name="21springboot-servlet" />
+        <module name="01springboot-base" />
+        <module name="07springboot-aop" />
+        <module name="22springboot-log" />
+        <module name="02springboot-config" />
+        <module name="05springboot-mutilmybatis" />
+        <module name="admin-server" />
+        <module name="04springboot-security-rememberme" />
+        <module name="14springboot-email" />
+        <module name="11springboot-json" />
+        <module name="01springboot-shiro-authentication" />
+        <module name="03springboot-security-validatecode" />
+        <module name="04springboot-shiro-redis" />
+        <module name="07springboot-security-permission" />
+        <module name="20springboot-listener" />
+        <module name="admin-client" />
+        <module name="07springboot-shiro-session" />
+        <module name="10springboot-security-oauth2customize" />
+        <module name="09springboot-redis" />
+        <module name="19springboot-actuator" />
+        <module name="13springboot-swagger2" />
+        <module name="08springboot-security-logout" />
+        <module name="02springboot-shiro-rememberme" />
+        <module name="06springboot-security-sessionmanager" />
+        <module name="04springboot-jdbctemplate" />
+        <module name="05springboot-security-smscode" />
+        <module name="11springboot-security-oauth2config" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01springboot-base" target="1.8" />
+      <module name="01springboot-security-base" target="1.8" />
+      <module name="01springboot-shiro-authentication" target="1.8" />
+      <module name="02springboot-config" target="1.8" />
+      <module name="02springboot-security-authentication" target="1.8" />
+      <module name="02springboot-shiro-rememberme" target="1.8" />
+      <module name="03springboot-mybatis" target="1.8" />
+      <module name="03springboot-security-validatecode" target="1.8" />
+      <module name="03springboot-shiro-authorization" target="1.8" />
+      <module name="04springboot-jdbctemplate" target="1.8" />
+      <module name="04springboot-security-rememberme" target="1.8" />
+      <module name="04springboot-shiro-redis" target="1.8" />
+      <module name="05springboot-mutilmybatis" target="1.8" />
+      <module name="05springboot-security-smscode" target="1.8" />
+      <module name="05springboot-shiro-ehcache" target="1.8" />
+      <module name="06springboot-mutiljdbctemplate" target="1.8" />
+      <module name="06springboot-security-sessionmanager" target="1.8" />
+      <module name="06springboot-shiro-thymeleaf-tag" target="1.8" />
+      <module name="07springboot-aop" target="1.8" />
+      <module name="07springboot-security-permission" target="1.8" />
+      <module name="07springboot-shiro-session" target="1.8" />
+      <module name="08springboot-security-logout" target="1.8" />
+      <module name="08springboot-shiro-jwt" target="1.8" />
+      <module name="08springboot-thymeleaf" target="1.8" />
+      <module name="09springboot-redis" target="1.8" />
+      <module name="09springboot-security-oauth2guide" target="1.8" />
+      <module name="10springboot-ehcache" target="1.8" />
+      <module name="10springboot-security-oauth2customize" target="1.8" />
+      <module name="11springboot-json" target="1.8" />
+      <module name="11springboot-security-oauth2config" target="1.8" />
+      <module name="12springboot-security-oauth2sso" target="1.8" />
+      <module name="12springboot-test" target="1.8" />
+      <module name="13springboot-swagger2" target="1.8" />
+      <module name="14springboot-email" target="1.8" />
+      <module name="15springboot-exception" target="1.8" />
+      <module name="16springboot-Filter-Interceptor" target="1.8" />
+      <module name="17springboot-mapper-pagehelper" target="1.8" />
+      <module name="19springboot-actuator" target="1.8" />
+      <module name="20springboot-listener" target="1.8" />
+      <module name="21springboot-servlet" target="1.8" />
+      <module name="22springboot-log" target="1.8" />
+      <module name="admin-client" target="1.8" />
+      <module name="admin-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01springboot-base" options="-parameters" />
+      <module name="01springboot-security-base" options="-parameters" />
+      <module name="01springboot-shiro-authentication" options="-parameters" />
+      <module name="02springboot-config" options="-parameters" />
+      <module name="02springboot-security-authentication" options="-parameters" />
+      <module name="02springboot-shiro-rememberme" options="-parameters" />
+      <module name="03springboot-mybatis" options="-parameters" />
+      <module name="03springboot-security-validatecode" options="-parameters" />
+      <module name="03springboot-shiro-authorization" options="-parameters" />
+      <module name="04springboot-jdbctemplate" options="-parameters" />
+      <module name="04springboot-security-rememberme" options="-parameters" />
+      <module name="04springboot-shiro-redis" options="-parameters" />
+      <module name="05springboot-mutilmybatis" options="-parameters" />
+      <module name="05springboot-security-smscode" options="-parameters" />
+      <module name="05springboot-shiro-ehcache" options="-parameters" />
+      <module name="06springboot-mutiljdbctemplate" options="-parameters" />
+      <module name="06springboot-security-sessionmanager" options="-parameters" />
+      <module name="06springboot-shiro-thymeleaf-tag" options="-parameters" />
+      <module name="07springboot-aop" options="-parameters" />
+      <module name="07springboot-security-permission" options="-parameters" />
+      <module name="07springboot-shiro-session" options="-parameters" />
+      <module name="08springboot-security-logout" options="-parameters" />
+      <module name="08springboot-shiro-jwt" options="-parameters" />
+      <module name="08springboot-thymeleaf" options="-parameters" />
+      <module name="09springboot-redis" options="-parameters" />
+      <module name="09springboot-security-oauth2guide" options="-parameters" />
+      <module name="10springboot-ehcache" options="-parameters" />
+      <module name="10springboot-security-oauth2customize" options="-parameters" />
+      <module name="11springboot-json" options="-parameters" />
+      <module name="11springboot-security-oauth2config" options="-parameters" />
+      <module name="12springboot-security-oauth2sso" options="-parameters" />
+      <module name="12springboot-test" options="-parameters" />
+      <module name="13springboot-swagger2" options="-parameters" />
+      <module name="14springboot-email" options="-parameters" />
+      <module name="15springboot-exception" options="-parameters" />
+      <module name="16springboot-Filter-Interceptor" options="-parameters" />
+      <module name="17springboot-mapper-pagehelper" options="-parameters" />
+      <module name="19springboot-actuator" options="-parameters" />
+      <module name="20springboot-listener" options="-parameters" />
+      <module name="21springboot-servlet" options="-parameters" />
+      <module name="22springboot-log" options="-parameters" />
+      <module name="admin-client" options="-parameters" />
+      <module name="admin-server" options="-parameters" />
+    </option>
+  </component>
+</project>

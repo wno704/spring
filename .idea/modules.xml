@@ -3,13 +3,48 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/boot/01springboot-base/01springboot-base.iml" filepath="$PROJECT_DIR$/boot/01springboot-base/01springboot-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/01springboot-security-base/01springboot-security-base.iml" filepath="$PROJECT_DIR$/security/01springboot-security-base/01springboot-security-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro/01springboot-shiro-authentication/01springboot-shiro-authentication.iml" filepath="$PROJECT_DIR$/shiro/01springboot-shiro-authentication/01springboot-shiro-authentication.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/02springboot-config/02springboot-config.iml" filepath="$PROJECT_DIR$/boot/02springboot-config/02springboot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/02springboot-security-authentication/02springboot-security-authentication.iml" filepath="$PROJECT_DIR$/security/02springboot-security-authentication/02springboot-security-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro/02springboot-shiro-rememberme/02springboot-shiro-rememberme.iml" filepath="$PROJECT_DIR$/shiro/02springboot-shiro-rememberme/02springboot-shiro-rememberme.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/03springboot-mybatis/03springboot-mybatis.iml" filepath="$PROJECT_DIR$/boot/03springboot-mybatis/03springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/03springboot-security-validatecode/03springboot-security-validatecode.iml" filepath="$PROJECT_DIR$/security/03springboot-security-validatecode/03springboot-security-validatecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro/03springboot-shiro-authorization/03springboot-shiro-authorization.iml" filepath="$PROJECT_DIR$/shiro/03springboot-shiro-authorization/03springboot-shiro-authorization.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/04springboot-jdbctemplate/04springboot-jdbctemplate.iml" filepath="$PROJECT_DIR$/boot/04springboot-jdbctemplate/04springboot-jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/04springboot-security-rememberme/04springboot-security-rememberme.iml" filepath="$PROJECT_DIR$/security/04springboot-security-rememberme/04springboot-security-rememberme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro/04springboot-shiro-redis/04springboot-shiro-redis.iml" filepath="$PROJECT_DIR$/shiro/04springboot-shiro-redis/04springboot-shiro-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/05springboot-mutilmybatis/05springboot-mutilmybatis.iml" filepath="$PROJECT_DIR$/boot/05springboot-mutilmybatis/05springboot-mutilmybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/05springboot-security-smscode/05springboot-security-smscode.iml" filepath="$PROJECT_DIR$/security/05springboot-security-smscode/05springboot-security-smscode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro/05springboot-shiro-ehcache/05springboot-shiro-ehcache.iml" filepath="$PROJECT_DIR$/shiro/05springboot-shiro-ehcache/05springboot-shiro-ehcache.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/06springboot-mutiljdbctemplate/06springboot-mutiljdbctemplate.iml" filepath="$PROJECT_DIR$/boot/06springboot-mutiljdbctemplate/06springboot-mutiljdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/06springboot-security-sessionmanager/06springboot-security-sessionmanager.iml" filepath="$PROJECT_DIR$/security/06springboot-security-sessionmanager/06springboot-security-sessionmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro/06springboot-shiro-thymeleaf-tag/06springboot-shiro-thymeleaf-tag.iml" filepath="$PROJECT_DIR$/shiro/06springboot-shiro-thymeleaf-tag/06springboot-shiro-thymeleaf-tag.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/07springboot-aop/07springboot-aop.iml" filepath="$PROJECT_DIR$/boot/07springboot-aop/07springboot-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/07springboot-security-permission/07springboot-security-permission.iml" filepath="$PROJECT_DIR$/security/07springboot-security-permission/07springboot-security-permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro/07springboot-shiro-session/07springboot-shiro-session.iml" filepath="$PROJECT_DIR$/shiro/07springboot-shiro-session/07springboot-shiro-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/08springboot-security-logout/08springboot-security-logout.iml" filepath="$PROJECT_DIR$/security/08springboot-security-logout/08springboot-security-logout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro/08springboot-shiro-jwt/08springboot-shiro-jwt.iml" filepath="$PROJECT_DIR$/shiro/08springboot-shiro-jwt/08springboot-shiro-jwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/08springboot-thymeleaf/08springboot-thymeleaf.iml" filepath="$PROJECT_DIR$/boot/08springboot-thymeleaf/08springboot-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/09springboot-redis/09springboot-redis.iml" filepath="$PROJECT_DIR$/boot/09springboot-redis/09springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/09springboot-security-oauth2guide/09springboot-security-oauth2guide.iml" filepath="$PROJECT_DIR$/security/09springboot-security-oauth2guide/09springboot-security-oauth2guide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/10springboot-ehcache/10springboot-ehcache.iml" filepath="$PROJECT_DIR$/boot/10springboot-ehcache/10springboot-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/10springboot-security-oauth2customize/10springboot-security-oauth2customize.iml" filepath="$PROJECT_DIR$/security/10springboot-security-oauth2customize/10springboot-security-oauth2customize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/11springboot-json/11springboot-json.iml" filepath="$PROJECT_DIR$/boot/11springboot-json/11springboot-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/11springboot-security-oauth2config/11springboot-security-oauth2config.iml" filepath="$PROJECT_DIR$/security/11springboot-security-oauth2config/11springboot-security-oauth2config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/12springboot-security-oauth2sso/12springboot-security-oauth2sso.iml" filepath="$PROJECT_DIR$/security/12springboot-security-oauth2sso/12springboot-security-oauth2sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/12springboot-test/12springboot-test.iml" filepath="$PROJECT_DIR$/boot/12springboot-test/12springboot-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/13springboot-swagger2/13springboot-swagger2.iml" filepath="$PROJECT_DIR$/boot/13springboot-swagger2/13springboot-swagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/14springboot-email/14springboot-email.iml" filepath="$PROJECT_DIR$/boot/14springboot-email/14springboot-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/15springboot-exception/15springboot-exception.iml" filepath="$PROJECT_DIR$/boot/15springboot-exception/15springboot-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/16springboot-Filter-Interceptor/16springboot-Filter-Interceptor.iml" filepath="$PROJECT_DIR$/boot/16springboot-Filter-Interceptor/16springboot-Filter-Interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/17springboot-mapper-pagehelper/17springboot-mapper-pagehelper.iml" filepath="$PROJECT_DIR$/boot/17springboot-mapper-pagehelper/17springboot-mapper-pagehelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/19springboot-actuator/19springboot-actuator.iml" filepath="$PROJECT_DIR$/boot/19springboot-actuator/19springboot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/20springboot-listener/20springboot-listener.iml" filepath="$PROJECT_DIR$/boot/20springboot-listener/20springboot-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/21springboot-servlet/21springboot-servlet.iml" filepath="$PROJECT_DIR$/boot/21springboot-servlet/21springboot-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/22springboot-log/22springboot-log.iml" filepath="$PROJECT_DIR$/boot/22springboot-log/22springboot-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/18springboot-admin/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/boot/18springboot-admin/admin-client/admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/18springboot-admin/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/boot/18springboot-admin/admin-server/admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
     </modules>
   </component>

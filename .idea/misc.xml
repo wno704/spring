@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/boot/04springboot-jdbctemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/05springboot-mutilmybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/06springboot-mutiljdbctemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/07springboot-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/08springboot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/02springboot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/03springBoot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/01springboot-base/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/09springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/10springboot-ehcache/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/11springboot-json/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/12springboot-test/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/13springboot-swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/14springboot-email/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/15springboot-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/16springboot/16springboot-Filter-Interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/17springboot-mapper-pagehelper/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/19springboot-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/01springboot-shiro-authentication/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/02springboot-shiro-rememberme/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/03springboot-shiro-authorization/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/04springboot-shiro-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/05springboot-shiro-ehcache/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/06springboot-shiro-thymeleaf-tag/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/07springboot-shiro-session/pom.xml" />
+        <option value="$PROJECT_DIR$/security/02springboot-security-authentication/pom.xml" />
+        <option value="$PROJECT_DIR$/security/01springboot-security-base/pom.xml" />
+        <option value="$PROJECT_DIR$/security/03springboot-security-validatecode/pom.xml" />
+        <option value="$PROJECT_DIR$/security/04springboot-security-rememberme/pom.xml" />
+        <option value="$PROJECT_DIR$/security/05springboot-security-smscode/pom.xml" />
+        <option value="$PROJECT_DIR$/security/06springboot-security-sessionmanager/pom.xml" />
+        <option value="$PROJECT_DIR$/security/08springboot-security-logout/pom.xml" />
+        <option value="$PROJECT_DIR$/security/07springboot-security-permission/pom.xml" />
+        <option value="$PROJECT_DIR$/security/09springboot-security-oauth2guide/pom.xml" />
+        <option value="$PROJECT_DIR$/security/10springboot-security-oauth2customize/pom.xml" />
+        <option value="$PROJECT_DIR$/security/11springboot-security-oauth2config/pom.xml" />
+        <option value="$PROJECT_DIR$/security/12springboot-security-oauth2sso/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/08springboot-shiro-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/18springboot-admin/admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/18springboot-admin/admin-client/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/20springboot-listener/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/21springboot-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/22springboot-log/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="9" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

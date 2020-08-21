@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/boot/01springboot-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/02springboot-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/03springboot-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/04springboot-jdbctemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/04springboot-jdbctemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/05springboot-mutilmybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/05springboot-mutilmybatis/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/06springboot-mutiljdbctemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/06springboot-mutiljdbctemplate/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/07springboot-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/07springboot-aop/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/08springboot-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/08springboot-thymeleaf/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/09springboot-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/09springboot-redis/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/10springboot-ehcache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/10springboot-ehcache/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/11springboot-json/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/12springboot-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/12springboot-test/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/13springboot-swagger2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/14springboot-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/14springboot-email/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/15springboot-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/17springboot-mapper-pagehelper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/17springboot-mapper-pagehelper/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/18springboot-admin/admin-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/18springboot-admin/admin-client/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/18springboot-admin/admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/19springboot-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/19springboot-actuator/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/20springboot-listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/21springboot-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/22springboot-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/22springboot-log/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/01springboot-security-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/02springboot-security-authentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/03springboot-security-validatecode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/04springboot-security-rememberme/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/05springboot-security-smscode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/06springboot-security-sessionmanager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/07springboot-security-permission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/08springboot-security-logout/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/09springboot-security-oauth2guide/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/10springboot-security-oauth2customize/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/11springboot-security-oauth2config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/12springboot-security-oauth2sso/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/01springboot-shiro-authentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/02springboot-shiro-rememberme/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/03springboot-shiro-authorization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/04springboot-shiro-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/05springboot-shiro-ehcache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/06springboot-shiro-thymeleaf-tag/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/07springboot-shiro-session/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/08springboot-shiro-jwt/src/main/java" charset="UTF-8" />
+  </component>
+</project>
