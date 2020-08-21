@@ -1,0 +1,27 @@
+server:
+  port: 8080
+  #servlet:
+  #  context-path: /admin-server
+
+
+spring:
+  application:
+    name: BootAdminServer
+
+  mail:
+    host: smtp.126.com
+    username: wno704@126.com
+    password: danyangwno704
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+  boot:
+    admin:
+      notify:
+        mail:
+          from: wno704@126.com
+          to: wno704@qq.com
