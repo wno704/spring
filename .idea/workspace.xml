@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6534b97-fb59-4cd7-81e1-96108f7c92f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repo" />
+        <option name="mavenHome" value="D:/Program Files/Apache Software Foundation/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\Apache Software Foundation\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gCoS7cgE18NzmkczsLMsjyFzzY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/boot/14springboot-email/src/main/resources/static" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3873563" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/boot/17springboot-mapper-pagehelper/src/main/resources/mapper/UserMapper.xml" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\workspace(idea)\spring\boot\14springboot-email\src\main\resources\static" />
+      <recent name="E:\workspace\workspace(idea)\spring\boot\12springboot-test\src\main\resources\mapper" />
+      <recent name="E:\workspace\workspace(idea)\spring\boot\17springboot-mapper-pagehelper\src\main\java\com\wno704\boot\service\impl" />
+      <recent name="E:\workspace\workspace(idea)\spring\boot\17springboot-mapper-pagehelper\src\main\java\com\wno704\boot\service" />
+      <recent name="E:\workspace\workspace(idea)\spring\boot\17springboot-mapper-pagehelper\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/calculate/1/0" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LogApplication">
+    <configuration name="MapperPageHelperApplicationTests (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="17springboot-mapper-pagehelper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wno704.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wno704.boot" />
+      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.MapperPageHelperApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperPageHelperApplicationTests (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="17springboot-mapper-pagehelper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wno704.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wno704.boot" />
+      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.MapperPageHelperApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperPageHelperApplicationTests (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="17springboot-mapper-pagehelper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wno704.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wno704.boot" />
+      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.MapperPageHelperApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperPageHelperApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="17springboot-mapper-pagehelper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wno704.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wno704.boot" />
+      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.MapperPageHelperApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="12springboot-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wno704.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wno704.boot" />
+      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.TestApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="17springboot-mapper-pagehelper-mybatis-generator:generate" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/boot/17springboot-mapper-pagehelper" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/boot/17springboot-mapper-pagehelper" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="19springboot-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.ActuatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminClientApplication-8082" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.AdminClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="server.port" value="8082" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.AdminClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.AdminServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07springboot-aop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.AopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthenticationApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02springboot-security-authentication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.AuthenticationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthenticationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01springboot-shiro-authentication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.shiro.AuthenticationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthorizationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03springboot-shiro-authorization" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.shiro.AuthorizationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01springboot-base" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.BaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02springboot-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EhcacheApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="05springboot-shiro-ehcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.shiro.EhcacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EhcacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="10springboot-ehcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.EhcacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="14springboot-email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.EmailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="15springboot-exception" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.demo.ExceptionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterInterceptorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="16springboot-Filter-Interceptor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.FilterInterceptorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="11springboot-json" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.JsonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="08springboot-shiro-jwt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.shiro.JwtApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListenerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="20springboot-listener" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.ListenerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="22springboot-log" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.LogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogoutApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="08springboot-security-logout" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.LogoutApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperPageHelperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="17springboot-mapper-pagehelper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.MapperPageHelperApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutilJdbcTemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06springboot-mutiljdbctemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.MutilJdbcTemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutilMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="05springboot-mutilmybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.MutilMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03springboot-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="11springboot-security-oauth2config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.OAuth2ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2CustomizeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="10springboot-security-oauth2customize" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.OAuth2CustomizeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2GuideApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="09springboot-security-oauth2guide" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.OAuth2GuideApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2SsoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="12springboot-security-oauth2sso" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.OAuth2SsoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermissionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07springboot-security-permission" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.PermissionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04springboot-shiro-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.shiro.RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="09springboot-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RememberMeApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04springboot-security-rememberme" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.RememberMeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RememberMeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02springboot-shiro-rememberme" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.shiro.RememberMeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01springboot-security-base" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.SecurityBaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="21springboot-servlet" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.ServletApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SessionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07springboot-shiro-session" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.shiro.SessionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SessionManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06springboot-security-sessionmanager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.serurity.SessionManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="05springboot-security-smscode" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.SmsCodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootJdbctemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04springboot-jdbctemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.JdbctemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swagger2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="13springboot-swagger2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.Swagger2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="12springboot-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="08springboot-thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.ThymeleafApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThymeleafTagApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06springboot-shiro-thymeleaf-tag" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.shiro.ThymeleafTagApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03springboot-security-validatecode" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.ValidateCodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MapperPageHelperApplicationTests (2)" />
+      <item itemvalue="JUnit.MapperPageHelperApplicationTests (3)" />
+      <item itemvalue="JUnit.MapperPageHelperApplicationTests (4)" />
+      <item itemvalue="JUnit.MapperPageHelperApplicationTests.test" />
+      <item itemvalue="JUnit.TestApplicationTests.test" />
+      <item itemvalue="Maven.17springboot-mapper-pagehelper-mybatis-generator:generate" />
+      <item itemvalue="Spring Boot.ActuatorApplication" />
+      <item itemvalue="Spring Boot.AopApplication" />
+      <item itemvalue="Spring Boot.AuthenticationApplication" />
+      <item itemvalue="Spring Boot.AuthenticationApplication (1)" />
+      <item itemvalue="Spring Boot.AuthorizationApplication" />
+      <item itemvalue="Spring Boot.BaseApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.EhcacheApplication" />
+      <item itemvalue="Spring Boot.EhcacheApplication (1)" />
+      <item itemvalue="Spring Boot.EmailApplication" />
+      <item itemvalue="Spring Boot.ExceptionApplication" />
+      <item itemvalue="Spring Boot.FilterInterceptorApplication" />
+      <item itemvalue="Spring Boot.JsonApplication" />
+      <item itemvalue="Spring Boot.JwtApplication" />
+      <item itemvalue="Spring Boot.LogoutApplication" />
+      <item itemvalue="Spring Boot.MapperPageHelperApplication" />
+      <item itemvalue="Spring Boot.MutilJdbcTemplateApplication" />
+      <item itemvalue="Spring Boot.MutilMybatisApplication" />
+      <item itemvalue="Spring Boot.MybatisApplication" />
+      <item itemvalue="Spring Boot.OAuth2ConfigApplication" />
+      <item itemvalue="Spring Boot.OAuth2CustomizeApplication" />
+      <item itemvalue="Spring Boot.OAuth2GuideApplication" />
+      <item itemvalue="Spring Boot.OAuth2SsoApplication" />
+      <item itemvalue="Spring Boot.PermissionApplication" />
+      <item itemvalue="Spring Boot.RedisApplication" />
+      <item itemvalue="Spring Boot.RedisApplication (1)" />
+      <item itemvalue="Spring Boot.RememberMeApplication" />
+      <item itemvalue="Spring Boot.RememberMeApplication (1)" />
+      <item itemvalue="Spring Boot.SecurityBaseApplication" />
+      <item itemvalue="Spring Boot.SessionApplication" />
+      <item itemvalue="Spring Boot.SessionManagerApplication" />
+      <item itemvalue="Spring Boot.SmsCodeApplication" />
+      <item itemvalue="Spring Boot.SpringbootJdbctemplateApplication" />
+      <item itemvalue="Spring Boot.Swagger2Application" />
+      <item itemvalue="Spring Boot.TestApplication" />
+      <item itemvalue="Spring Boot.ThymeleafApplication" />
+      <item itemvalue="Spring Boot.ThymeleafTagApplication" />
+      <item itemvalue="Spring Boot.ValidateCodeApplication" />
+      <item itemvalue="Spring Boot.AdminServerApplication" />
+      <item itemvalue="Spring Boot.AdminClientApplication" />
+      <item itemvalue="Spring Boot.AdminClientApplication-8082" />
+      <item itemvalue="Spring Boot.ListenerApplication" />
+      <item itemvalue="Spring Boot.ServletApplication" />
+      <item itemvalue="Spring Boot.LogApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestApplicationTests.test" />
+        <item itemvalue="JUnit.MapperPageHelperApplicationTests.test" />
+        <item itemvalue="JUnit.MapperPageHelperApplicationTests (4)" />
+        <item itemvalue="JUnit.MapperPageHelperApplicationTests (3)" />
+        <item itemvalue="JUnit.MapperPageHelperApplicationTests (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6534b97-fb59-4cd7-81e1-96108f7c92f6" name="Default Changelist" comment="" />
+      <created>1597627931505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597627931505</updated>
+      <workItem from="1597627932733" duration="2366000" />
+      <workItem from="1597630348603" duration="1407000" />
+      <workItem from="1597631769468" duration="2706000" />
+      <workItem from="1597648693450" duration="529000" />
+      <workItem from="1597649237794" duration="4043000" />
+      <workItem from="1597654100687" duration="3781000" />
+      <workItem from="1597658614930" duration="577000" />
+      <workItem from="1597659204541" duration="3106000" />
+      <workItem from="1597662387781" duration="335000" />
+      <workItem from="1597662805314" duration="10000" />
+      <workItem from="1597662843542" duration="716000" />
+      <workItem from="1597665225227" duration="572000" />
+      <workItem from="1597667875320" duration="235000" />
+      <workItem from="1597668129405" duration="144000" />
+      <workItem from="1597668290707" duration="107000" />
+      <workItem from="1597668414602" duration="1278000" />
+      <workItem from="1597670573081" duration="82000" />
+      <workItem from="1597671018826" duration="3066000" />
+      <workItem from="1597675393436" duration="2848000" />
+      <workItem from="1597678350872" duration="423000" />
+      <workItem from="1597713371106" duration="1637000" />
+      <workItem from="1597715022363" duration="1717000" />
+      <workItem from="1597716760489" duration="228000" />
+      <workItem from="1597717023513" duration="685000" />
+      <workItem from="1597717721928" duration="3411000" />
+      <workItem from="1597721175211" duration="2196000" />
+      <workItem from="1597733912155" duration="379000" />
+      <workItem from="1597734309981" duration="720000" />
+      <workItem from="1597735044542" duration="1233000" />
+      <workItem from="1597736291318" duration="1822000" />
+      <workItem from="1597742745131" duration="5779000" />
+      <workItem from="1597753748769" duration="1056000" />
+      <workItem from="1597754825176" duration="409000" />
+      <workItem from="1597755254877" duration="7087000" />
+      <workItem from="1597819955803" duration="2502000" />
+      <workItem from="1597823093209" duration="1409000" />
+      <workItem from="1597824518089" duration="240000" />
+      <workItem from="1597824781240" duration="138000" />
+      <workItem from="1597824932713" duration="672000" />
+      <workItem from="1597825619924" duration="103000" />
+      <workItem from="1597825754886" duration="6077000" />
+      <workItem from="1597835076797" duration="10603000" />
+      <workItem from="1597886291276" duration="9060000" />
+      <workItem from="1597895541471" duration="674000" />
+      <workItem from="1597905381700" duration="531000" />
+      <workItem from="1597905930108" duration="653000" />
+      <workItem from="1597906600416" duration="1548000" />
+      <workItem from="1597908176643" duration="1928000" />
+      <workItem from="1597910125887" duration="1405000" />
+      <workItem from="1597911548667" duration="4688000" />
+      <workItem from="1597916256582" duration="3158000" />
+      <workItem from="1597919430061" duration="1384000" />
+      <workItem from="1597920887107" duration="86000" />
+      <workItem from="1597926386118" duration="3885000" />
+      <workItem from="1597934330298" duration="2854000" />
+      <workItem from="1597972446320" duration="10392000" />
+      <workItem from="1597994219394" duration="64000" />
+      <workItem from="1597994298032" duration="873000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="19" key="#AdminClientApplication_(1)" timestamp="1597907981021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="209" y="19" key="#AdminClientApplication_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1597907981021" />
+    <state x="222" y="4" key="#BootApplication" timestamp="1597907149433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="222" y="4" key="#BootApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1597907149433" />
+    <state x="647" y="80" key="#Project_Structure" timestamp="1597905394456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="80" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1597905394456" />
+    <state x="129" y="131" width="1165" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597747112633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="129" y="131" width="1165" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597747112633" />
+    <state x="526" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1597978273679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="526" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597978273679" />
+    <state x="508" y="216" width="716" height="612" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1597746612810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="508" y="216" width="716" height="612" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597746612810" />
+    <state x="585" y="395" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597735339407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="395" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1597735339407" />
+    <state x="701" y="266" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597905889022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="266" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597905889022" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597974441991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597974441991" />
+    <state width="426" height="466" key="DebuggerActiveHint" timestamp="1597837691495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="426" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1597837691495" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1597746343316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597746343316" />
+    <state x="671" y="246" key="FileChooserDialogImpl" timestamp="1597747007106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="246" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597747007106" />
+    <state x="787" y="412" key="Github.CreateGistDialog" timestamp="1597976480875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="787" y="412" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597976480875" />
+    <state width="1375" height="293" key="GridCell.Tab.0.bottom" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1375" height="293" key="GridCell.Tab.0.center" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1375" height="293" key="GridCell.Tab.0.left" timestamp="1597995441804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441804" />
+    <state width="1375" height="293" key="GridCell.Tab.0.right" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1375" height="293" key="GridCell.Tab.1.bottom" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1375" height="293" key="GridCell.Tab.1.center" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1375" height="293" key="GridCell.Tab.1.left" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1375" height="293" key="GridCell.Tab.1.right" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1375" height="293" key="GridCell.Tab.2.bottom" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1375" height="293" key="GridCell.Tab.2.center" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1375" height="293" key="GridCell.Tab.2.left" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1375" height="293" key="GridCell.Tab.2.right" timestamp="1597995441805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1375" height="293" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state x="374" y="152" key="Maven.ArtifactSearchDialog" timestamp="1597974059760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="374" y="152" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597974059760" />
+    <state x="531" y="263" key="NewModule_or_Project.wizard" timestamp="1597667890775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="263" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1597667890775" />
+    <state x="669" y="153" width="858" height="538" key="Registry" timestamp="1597994458551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="153" width="858" height="538" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1597994458551" />
+    <state x="574" y="184" key="SettingsEditor" timestamp="1597994278739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597994278739" />
+    <state x="419" y="418" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597630392207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="419" y="418" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1597630392207" />
+    <state x="507" y="251" width="906" height="567" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597662718006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="507" y="251" width="906" height="567" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1597662718006" />
+    <state x="467" y="245" width="894" height="521" key="new project wizard" timestamp="1597980296365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="467" y="245" width="894" height="521" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1597980296365" />
+    <state x="555" y="232" key="run.anything.popup" timestamp="1597820264046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="232" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597820264046" />
+    <state x="414" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1597631807245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597631807245" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/boot$ThymeleafApplication.ic" NAME="ThymeleafApplication Coverage Results" MODIFIED="1597668330356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
