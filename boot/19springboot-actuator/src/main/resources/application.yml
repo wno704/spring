@@ -1,0 +1,36 @@
+management:
+  health:
+    mongo:
+      enabled: false
+  endpoint:
+    shutdown:
+      enabled: true
+    health:
+      show-details: always   #显示详细的健康信息
+  endpoints:
+    web:
+      exposure:
+        include: '*'    #通过HTTP暴露Actuator endpoints。
+        exclude:
+    jmx:
+      exposure:
+        exclude: '*'    #通过JMX暴露Actuator endpoints。
+        include:
+
+# INFO ENDPOINT CONFIGURATION
+info:
+  app:
+    name: @project.name@
+    description: @project.description@
+    version: @project.version@
+    encoding: @project.build.sourceEncoding@
+    spring-boot-version: @spring-boot.version@
+    java:
+      version: @java.version@
+
+spring:
+  security:
+    user:
+      name: actuator
+      password: actuator
+      roles: ACTUATOR_ADMIN
