@@ -43,6 +43,11 @@
       <module fileurl="file://$PROJECT_DIR$/boot/20springboot-listener/20springboot-listener.iml" filepath="$PROJECT_DIR$/boot/20springboot-listener/20springboot-listener.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/21springboot-servlet/21springboot-servlet.iml" filepath="$PROJECT_DIR$/boot/21springboot-servlet/21springboot-servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/22springboot-log/22springboot-log.iml" filepath="$PROJECT_DIR$/boot/22springboot-log/22springboot-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/23springboot-jsoupxss/23springboot-jsoupxss.iml" filepath="$PROJECT_DIR$/boot/23springboot-jsoupxss/23springboot-jsoupxss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/24springboot-mybatisplus/24springboot-mybatisplus.iml" filepath="$PROJECT_DIR$/boot/24springboot-mybatisplus/24springboot-mybatisplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/25springboot-autoconfig/25springboot-autoconfig.iml" filepath="$PROJECT_DIR$/boot/25springboot-autoconfig/25springboot-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/26springboot-registbean/26springboot-registbean.iml" filepath="$PROJECT_DIR$/boot/26springboot-registbean/26springboot-registbean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot/27springboot-beanlifecycle/27springboot-beanlifecycle.iml" filepath="$PROJECT_DIR$/boot/27springboot-beanlifecycle/27springboot-beanlifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/18springboot-admin/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/boot/18springboot-admin/admin-client/admin-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot/18springboot-admin/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/boot/18springboot-admin/admin-server/admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />

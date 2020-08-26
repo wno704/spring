@@ -7,47 +7,52 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="02springboot-security-authentication" />
         <module name="08springboot-shiro-jwt" />
         <module name="03springboot-shiro-authorization" />
         <module name="03springboot-mybatis" />
-        <module name="15springboot-exception" />
+        <module name="07springboot-aop" />
         <module name="17springboot-mapper-pagehelper" />
-        <module name="20springboot-Prometheus" />
-        <module name="12springboot-test" />
+        <module name="04springboot-security-rememberme" />
         <module name="05springboot-shiro-ehcache" />
+        <module name="27springboot-beanlifecycle" />
         <module name="01springboot-security-base" />
         <module name="09springboot-security-oauth2guide" />
         <module name="06springboot-shiro-thymeleaf-tag" />
         <module name="12springboot-security-oauth2sso" />
+        <module name="19springboot-actuator" />
         <module name="08springboot-thymeleaf" />
         <module name="06springboot-mutiljdbctemplate" />
         <module name="10springboot-ehcache" />
         <module name="21springboot-servlet" />
+        <module name="06springboot-security-sessionmanager" />
         <module name="01springboot-base" />
-        <module name="07springboot-aop" />
+        <module name="26springboot-registbean" />
+        <module name="04springboot-jdbctemplate" />
         <module name="22springboot-log" />
         <module name="02springboot-config" />
         <module name="05springboot-mutilmybatis" />
+        <module name="13springboot-swagger2" />
         <module name="admin-server" />
-        <module name="04springboot-security-rememberme" />
+        <module name="24springboot-mybatisplus" />
         <module name="14springboot-email" />
         <module name="11springboot-json" />
-        <module name="01springboot-shiro-authentication" />
         <module name="03springboot-security-validatecode" />
+        <module name="20springboot-Prometheus" />
         <module name="04springboot-shiro-redis" />
         <module name="07springboot-security-permission" />
         <module name="20springboot-listener" />
-        <module name="admin-client" />
-        <module name="07springboot-shiro-session" />
-        <module name="10springboot-security-oauth2customize" />
+        <module name="23springboot-jsoupxss" />
+        <module name="15springboot-exception" />
+        <module name="12springboot-test" />
         <module name="09springboot-redis" />
-        <module name="19springboot-actuator" />
-        <module name="13springboot-swagger2" />
+        <module name="admin-client" />
+        <module name="01springboot-shiro-authentication" />
         <module name="08springboot-security-logout" />
         <module name="02springboot-shiro-rememberme" />
-        <module name="06springboot-security-sessionmanager" />
-        <module name="04springboot-jdbctemplate" />
+        <module name="02springboot-security-authentication" />
+        <module name="10springboot-security-oauth2customize" />
+        <module name="07springboot-shiro-session" />
+        <module name="25springboot-autoconfig" />
         <module name="05springboot-security-smscode" />
         <module name="11springboot-security-oauth2config" />
       </profile>
@@ -94,6 +99,11 @@
       <module name="20springboot-listener" target="1.8" />
       <module name="21springboot-servlet" target="1.8" />
       <module name="22springboot-log" target="1.8" />
+      <module name="23springboot-jsoupxss" target="1.8" />
+      <module name="24springboot-mybatisplus" target="1.8" />
+      <module name="25springboot-autoconfig" target="1.8" />
+      <module name="26springboot-registbean" target="1.8" />
+      <module name="27springboot-beanlifecycle" target="1.8" />
       <module name="admin-client" target="1.8" />
       <module name="admin-server" target="1.8" />
     </bytecodeTargetLevel>
@@ -141,6 +151,11 @@
       <module name="20springboot-listener" options="-parameters" />
       <module name="21springboot-servlet" options="-parameters" />
       <module name="22springboot-log" options="-parameters" />
+      <module name="23springboot-jsoupxss" options="-parameters" />
+      <module name="24springboot-mybatisplus" options="-parameters" />
+      <module name="25springboot-autoconfig" options="-parameters" />
+      <module name="26springboot-registbean" options="-parameters" />
+      <module name="27springboot-beanlifecycle" options="-parameters" />
       <module name="admin-client" options="-parameters" />
       <module name="admin-server" options="-parameters" />
     </option>

@@ -36,6 +36,13 @@
     <file url="file://$PROJECT_DIR$/boot/21springboot-servlet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot/22springboot-log/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot/22springboot-log/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/23springboot-jsoupxss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/24springboot-mybatisplus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/24springboot-mybatisplus/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/25springboot-autoconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/25springboot-autoconfig/src/main/resources/META-INF/spring.factories" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/26springboot-registbean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/27springboot-beanlifecycle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security/01springboot-security-base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security/02springboot-security-authentication/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security/03springboot-security-validatecode/src/main/java" charset="UTF-8" />

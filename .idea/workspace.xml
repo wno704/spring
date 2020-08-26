@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6534b97-fb59-4cd7-81e1-96108f7c92f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +40,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="package-info" />
-        <option value="Interface" />
         <option value="FxmlFile" />
         <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -94,7 +98,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/boot/14springboot-email/src/main/resources/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/boot/24springboot-mybatisplus/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3873563" />
@@ -106,11 +110,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\workspace(idea)\spring\boot\24springboot-mybatisplus\src\main\resources" />
+      <recent name="E:\workspace\workspace(idea)\spring\boot\24springboot-mybatisplus\src\main\resources\db" />
       <recent name="E:\workspace\workspace(idea)\spring\boot\14springboot-email\src\main\resources\static" />
       <recent name="E:\workspace\workspace(idea)\spring\boot\12springboot-test\src\main\resources\mapper" />
       <recent name="E:\workspace\workspace(idea)\spring\boot\17springboot-mapper-pagehelper\src\main\java\com\wno704\boot\service\impl" />
-      <recent name="E:\workspace\workspace(idea)\spring\boot\17springboot-mapper-pagehelper\src\main\java\com\wno704\boot\service" />
-      <recent name="E:\workspace\workspace(idea)\spring\boot\17springboot-mapper-pagehelper\src\main\resources\mapper" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -146,9 +150,9 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.LogApplication">
-    <configuration name="MapperPageHelperApplicationTests (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="17springboot-mapper-pagehelper" />
+  <component name="RunManager" selected="JUnit.RegistBeanApplicationTests.test3">
+    <configuration name="RegistBeanApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="26springboot-registbean" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wno704.boot.*" />
@@ -156,15 +160,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.wno704.boot" />
-      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.MapperPageHelperApplicationTests" />
+      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.RegistBeanApplicationTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapperPageHelperApplicationTests (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="17springboot-mapper-pagehelper" />
+    <configuration name="RegistBeanApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="26springboot-registbean" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wno704.boot.*" />
@@ -172,39 +176,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.wno704.boot" />
-      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.MapperPageHelperApplicationTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BSP.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapperPageHelperApplicationTests (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="17springboot-mapper-pagehelper" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wno704.boot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wno704.boot" />
-      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.MapperPageHelperApplicationTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BSP.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapperPageHelperApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="17springboot-mapper-pagehelper" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wno704.boot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wno704.boot" />
-      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.MapperPageHelperApplicationTests" />
+      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.RegistBeanApplicationTests" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -212,8 +184,8 @@
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="12springboot-test" />
+    <configuration name="RegistBeanApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="26springboot-registbean" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wno704.boot.*" />
@@ -221,8 +193,42 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.wno704.boot" />
-      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.TestApplicationTests" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.RegistBeanApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistBeanApplicationTests.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="26springboot-registbean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wno704.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wno704.boot" />
+      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.RegistBeanApplicationTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistBeanApplicationTests.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="26springboot-registbean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wno704.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wno704.boot" />
+      <option name="MAIN_CLASS_NAME" value="com.wno704.boot.RegistBeanApplicationTests" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -347,9 +353,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AutoConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="25springboot-autoconfig" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.AutoConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="01springboot-base" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.BaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanLifeCycleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="27springboot-beanlifecycle" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.BeanLifeCycleApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -460,6 +480,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="24springboot-mybatisplus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wn704.boot.MybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OAuth2ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="11springboot-security-oauth2config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.security.OAuth2ConfigApplication" />
@@ -505,6 +532,13 @@
     <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="09springboot-redis" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistBeanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="26springboot-registbean" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.RegistBeanApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -600,12 +634,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="23springboot-jsoupxss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wno704.boot.XssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.MapperPageHelperApplicationTests (2)" />
-      <item itemvalue="JUnit.MapperPageHelperApplicationTests (3)" />
-      <item itemvalue="JUnit.MapperPageHelperApplicationTests (4)" />
-      <item itemvalue="JUnit.MapperPageHelperApplicationTests.test" />
-      <item itemvalue="JUnit.TestApplicationTests.test" />
       <item itemvalue="Maven.17springboot-mapper-pagehelper-mybatis-generator:generate" />
       <item itemvalue="Spring Boot.ActuatorApplication" />
       <item itemvalue="Spring Boot.AopApplication" />
@@ -651,14 +687,24 @@
       <item itemvalue="Spring Boot.ListenerApplication" />
       <item itemvalue="Spring Boot.ServletApplication" />
       <item itemvalue="Spring Boot.LogApplication" />
+      <item itemvalue="Spring Boot.XssApplication" />
+      <item itemvalue="Spring Boot.MybatisPlusApplication" />
+      <item itemvalue="Spring Boot.AutoConfigApplication" />
+      <item itemvalue="Spring Boot.RegistBeanApplication" />
+      <item itemvalue="JUnit.RegistBeanApplicationTests.test" />
+      <item itemvalue="JUnit.RegistBeanApplicationTests" />
+      <item itemvalue="JUnit.RegistBeanApplicationTests.test2" />
+      <item itemvalue="JUnit.RegistBeanApplicationTests.test3" />
+      <item itemvalue="JUnit.RegistBeanApplicationTests.test1" />
+      <item itemvalue="Spring Boot.BeanLifeCycleApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestApplicationTests.test" />
-        <item itemvalue="JUnit.MapperPageHelperApplicationTests.test" />
-        <item itemvalue="JUnit.MapperPageHelperApplicationTests (4)" />
-        <item itemvalue="JUnit.MapperPageHelperApplicationTests (3)" />
-        <item itemvalue="JUnit.MapperPageHelperApplicationTests (2)" />
+        <item itemvalue="JUnit.RegistBeanApplicationTests.test3" />
+        <item itemvalue="JUnit.RegistBeanApplicationTests.test1" />
+        <item itemvalue="JUnit.RegistBeanApplicationTests.test2" />
+        <item itemvalue="JUnit.RegistBeanApplicationTests.test" />
+        <item itemvalue="JUnit.RegistBeanApplicationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -730,6 +776,44 @@
       <workItem from="1597972446320" duration="10392000" />
       <workItem from="1597994219394" duration="64000" />
       <workItem from="1597994298032" duration="873000" />
+      <workItem from="1598003505927" duration="2863000" />
+      <workItem from="1598111772572" duration="80000" />
+      <workItem from="1598111957865" duration="482000" />
+      <workItem from="1598164007850" duration="293000" />
+      <workItem from="1598178119855" duration="133000" />
+      <workItem from="1598192702893" duration="57000" />
+      <workItem from="1598196575275" duration="551000" />
+      <workItem from="1598197763905" duration="1664000" />
+      <workItem from="1598199512322" duration="422000" />
+      <workItem from="1598257717324" duration="4657000" />
+      <workItem from="1598262389996" duration="1627000" />
+      <workItem from="1598264032494" duration="1029000" />
+      <workItem from="1598272942258" duration="232000" />
+      <workItem from="1598273189978" duration="698000" />
+      <workItem from="1598278753842" duration="218000" />
+      <workItem from="1598278998956" duration="375000" />
+      <workItem from="1598279391172" duration="224000" />
+      <workItem from="1598279632001" duration="189000" />
+      <workItem from="1598280659862" duration="195000" />
+      <workItem from="1598280878455" duration="74000" />
+      <workItem from="1598281026363" duration="2336000" />
+      <workItem from="1598318032859" duration="1020000" />
+      <workItem from="1598319561945" duration="165000" />
+      <workItem from="1598319743545" duration="157000" />
+      <workItem from="1598319914854" duration="642000" />
+      <workItem from="1598320577474" duration="148000" />
+      <workItem from="1598320996040" duration="3841000" />
+      <workItem from="1598337860141" duration="1231000" />
+      <workItem from="1598339106970" duration="1619000" />
+      <workItem from="1598340741008" duration="1774000" />
+      <workItem from="1598342728013" duration="1748000" />
+      <workItem from="1598344690480" duration="1180000" />
+      <workItem from="1598345887586" duration="2734000" />
+      <workItem from="1598348638424" duration="1869000" />
+      <workItem from="1598408736369" duration="5421000" />
+      <workItem from="1598426003927" duration="184000" />
+      <workItem from="1598426554606" duration="1066000" />
+      <workItem from="1598427683652" duration="13217000" />
     </task>
     <servers />
   </component>
@@ -757,38 +841,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="222" y="4" key="#BootApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1597907149433" />
-    <state x="647" y="80" key="#Project_Structure" timestamp="1597905394456">
+    <state x="647" y="80" key="#Project_Structure" timestamp="1598258104913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="647" y="80" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1597905394456" />
+    <state x="647" y="80" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1598258104913" />
     <state x="129" y="131" width="1165" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597747112633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="129" y="131" width="1165" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597747112633" />
-    <state x="526" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1597978273679">
+    <state x="526" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1598412436078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="526" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597978273679" />
-    <state x="508" y="216" width="716" height="612" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1597746612810">
+    <state x="526" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598412436078" />
+    <state x="508" y="216" width="716" height="612" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1598320684816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="508" y="216" width="716" height="612" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597746612810" />
-    <state x="585" y="395" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597735339407">
+    <state x="508" y="216" width="716" height="612" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598320684816" />
+    <state x="585" y="395" width="749" height="249" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598437188633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="395" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1597735339407" />
+    <state x="585" y="395" width="749" height="249" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1598437188633" />
     <state x="701" y="266" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597905889022">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="701" y="266" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597905889022" />
-    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597974441991">
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598348343291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597974441991" />
-    <state width="426" height="466" key="DebuggerActiveHint" timestamp="1597837691495">
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598348343291" />
+    <state width="434" height="466" key="DebuggerActiveHint" timestamp="1598282436808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="426" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1597837691495" />
+    <state width="434" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1598282436808" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1597746343316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -801,54 +885,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="787" y="412" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597976480875" />
-    <state width="1375" height="293" key="GridCell.Tab.0.bottom" timestamp="1597995441805">
+    <state width="1665" height="252" key="GridCell.Tab.0.bottom" timestamp="1598440918291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
-    <state width="1375" height="293" key="GridCell.Tab.0.center" timestamp="1597995441805">
+    <state width="1665" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918291" />
+    <state width="1665" height="252" key="GridCell.Tab.0.center" timestamp="1598440918291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
-    <state width="1375" height="293" key="GridCell.Tab.0.left" timestamp="1597995441804">
+    <state width="1665" height="252" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918291" />
+    <state width="1665" height="252" key="GridCell.Tab.0.left" timestamp="1598440918291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441804" />
-    <state width="1375" height="293" key="GridCell.Tab.0.right" timestamp="1597995441805">
+    <state width="1665" height="252" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918291" />
+    <state width="1665" height="252" key="GridCell.Tab.0.right" timestamp="1598440918291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
-    <state width="1375" height="293" key="GridCell.Tab.1.bottom" timestamp="1597995441805">
+    <state width="1665" height="252" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918291" />
+    <state width="1665" height="252" key="GridCell.Tab.1.bottom" timestamp="1598440918294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
-    <state width="1375" height="293" key="GridCell.Tab.1.center" timestamp="1597995441805">
+    <state width="1665" height="252" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918294" />
+    <state width="1665" height="252" key="GridCell.Tab.1.center" timestamp="1598440918291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
-    <state width="1375" height="293" key="GridCell.Tab.1.left" timestamp="1597995441805">
+    <state width="1665" height="252" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918291" />
+    <state width="1665" height="252" key="GridCell.Tab.1.left" timestamp="1598440918291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
-    <state width="1375" height="293" key="GridCell.Tab.1.right" timestamp="1597995441805">
+    <state width="1665" height="252" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918291" />
+    <state width="1665" height="252" key="GridCell.Tab.1.right" timestamp="1598440918292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
-    <state width="1375" height="293" key="GridCell.Tab.2.bottom" timestamp="1597995441805">
+    <state width="1665" height="252" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918292" />
+    <state width="1321" height="302" key="GridCell.Tab.2.bottom" timestamp="1598440918289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
-    <state width="1375" height="293" key="GridCell.Tab.2.center" timestamp="1597995441805">
+    <state width="1321" height="302" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918289" />
+    <state width="1321" height="302" key="GridCell.Tab.2.center" timestamp="1598440918289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
-    <state width="1375" height="293" key="GridCell.Tab.2.left" timestamp="1597995441805">
+    <state width="1321" height="302" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918289" />
+    <state width="1321" height="302" key="GridCell.Tab.2.left" timestamp="1598440918289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
-    <state width="1375" height="293" key="GridCell.Tab.2.right" timestamp="1597995441805">
+    <state width="1321" height="302" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918289" />
+    <state width="1321" height="302" key="GridCell.Tab.2.right" timestamp="1598440918289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1375" height="293" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597995441805" />
+    <state width="1321" height="302" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598440918289" />
     <state x="374" y="152" key="Maven.ArtifactSearchDialog" timestamp="1597974059760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -861,10 +945,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="153" width="858" height="538" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1597994458551" />
-    <state x="574" y="184" key="SettingsEditor" timestamp="1597994278739">
+    <state x="608" y="109" key="SettingsEditor" timestamp="1598111849043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="574" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597994278739" />
+    <state x="608" y="109" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598111849043" />
     <state x="419" y="418" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597630392207">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -873,18 +957,43 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="507" y="251" width="906" height="567" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1597662718006" />
-    <state x="467" y="245" width="894" height="521" key="new project wizard" timestamp="1597980296365">
+    <state x="597" y="297" width="610" height="562" key="find.popup" timestamp="1598410673868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="467" y="245" width="894" height="521" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1597980296365" />
+    <state x="597" y="297" width="610" height="562" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598410673868" />
+    <state x="549" y="205" width="1082" height="644" key="new project wizard" timestamp="1598440275871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="205" width="1082" height="644" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598440275871" />
     <state x="555" y="232" key="run.anything.popup" timestamp="1597820264046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="555" y="232" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597820264046" />
-    <state x="414" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1597631807245">
+    <state x="414" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1598263711761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597631807245" />
+    <state x="414" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598263711761" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/boot/12springboot-test/src/test/java/com/wno704/boot/TestApplicationTests.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/boot/12springboot-test/src/test/java/com/wno704/boot/TestApplicationTests.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/boot/23springboot-jsoupxss/src/main/java/com/wno704/boot/filter/XssFilter.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/boot$ThymeleafApplication.ic" NAME="ThymeleafApplication Coverage Results" MODIFIED="1597668330356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
