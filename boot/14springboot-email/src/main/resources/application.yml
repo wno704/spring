@@ -1,0 +1,15 @@
+server:
+  port: 80
+
+spring:
+  mail:
+    host: smtp.126.com
+    username: wno704@126.com
+    password: danyangwno704
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
