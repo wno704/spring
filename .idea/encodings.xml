@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/base/designpattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/javase/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot/01springboot-base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot/02springboot-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot/03springboot-mybatis/src/main/java" charset="UTF-8" />
@@ -43,6 +45,7 @@
     <file url="file://$PROJECT_DIR$/boot/25springboot-autoconfig/src/main/resources/META-INF/spring.factories" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot/26springboot-registbean/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot/27springboot-beanlifecycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/27springboot-beanlifecycle/src/main/resources/application.yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security/01springboot-security-base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security/02springboot-security-authentication/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security/03springboot-security-validatecode/src/main/java" charset="UTF-8" />
@@ -56,12 +59,13 @@
     <file url="file://$PROJECT_DIR$/security/11springboot-security-oauth2config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security/12springboot-security-oauth2sso/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shiro/01springboot-shiro-authentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/01springboot-shiro-authentication/src/main/resources/application.yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shiro/02springboot-shiro-rememberme/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shiro/03springboot-shiro-authorization/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shiro/04springboot-shiro-redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shiro/05springboot-shiro-ehcache/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shiro/06springboot-shiro-thymeleaf-tag/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shiro/07springboot-shiro-session/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shiro/08springboot-shiro-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/07springboot-shiro-session-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro/08springboot-shiro-session-ehcache/src/main/java" charset="UTF-8" />
   </component>
 </project>

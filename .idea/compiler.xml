@@ -7,14 +7,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="08springboot-shiro-jwt" />
+        <module name="07springboot-shiro-session-redis" />
         <module name="03springboot-shiro-authorization" />
         <module name="03springboot-mybatis" />
         <module name="07springboot-aop" />
         <module name="17springboot-mapper-pagehelper" />
         <module name="04springboot-security-rememberme" />
+        <module name="designpattern" />
         <module name="05springboot-shiro-ehcache" />
-        <module name="27springboot-beanlifecycle" />
+        <module name="08springboot-shiro-session-ehcache" />
         <module name="01springboot-security-base" />
         <module name="09springboot-security-oauth2guide" />
         <module name="06springboot-shiro-thymeleaf-tag" />
@@ -43,15 +44,16 @@
         <module name="20springboot-listener" />
         <module name="23springboot-jsoupxss" />
         <module name="15springboot-exception" />
-        <module name="12springboot-test" />
-        <module name="09springboot-redis" />
         <module name="admin-client" />
+        <module name="09springboot-redis" />
+        <module name="27springboot-beanlifecycle" />
         <module name="01springboot-shiro-authentication" />
         <module name="08springboot-security-logout" />
         <module name="02springboot-shiro-rememberme" />
         <module name="02springboot-security-authentication" />
         <module name="10springboot-security-oauth2customize" />
-        <module name="07springboot-shiro-session" />
+        <module name="12springboot-test" />
+        <module name="javase" />
         <module name="25springboot-autoconfig" />
         <module name="05springboot-security-smscode" />
         <module name="11springboot-security-oauth2config" />
@@ -78,9 +80,10 @@
       <module name="06springboot-shiro-thymeleaf-tag" target="1.8" />
       <module name="07springboot-aop" target="1.8" />
       <module name="07springboot-security-permission" target="1.8" />
-      <module name="07springboot-shiro-session" target="1.8" />
+      <module name="07springboot-shiro-session-redis" target="1.8" />
       <module name="08springboot-security-logout" target="1.8" />
       <module name="08springboot-shiro-jwt" target="1.8" />
+      <module name="08springboot-shiro-session-ehcache" target="1.8" />
       <module name="08springboot-thymeleaf" target="1.8" />
       <module name="09springboot-redis" target="1.8" />
       <module name="09springboot-security-oauth2guide" target="1.8" />
@@ -106,6 +109,8 @@
       <module name="27springboot-beanlifecycle" target="1.8" />
       <module name="admin-client" target="1.8" />
       <module name="admin-server" target="1.8" />
+      <module name="designpattern" target="1.8" />
+      <module name="javase" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -130,9 +135,10 @@
       <module name="06springboot-shiro-thymeleaf-tag" options="-parameters" />
       <module name="07springboot-aop" options="-parameters" />
       <module name="07springboot-security-permission" options="-parameters" />
-      <module name="07springboot-shiro-session" options="-parameters" />
+      <module name="07springboot-shiro-session-redis" options="-parameters" />
       <module name="08springboot-security-logout" options="-parameters" />
       <module name="08springboot-shiro-jwt" options="-parameters" />
+      <module name="08springboot-shiro-session-ehcache" options="-parameters" />
       <module name="08springboot-thymeleaf" options="-parameters" />
       <module name="09springboot-redis" options="-parameters" />
       <module name="09springboot-security-oauth2guide" options="-parameters" />
@@ -158,6 +164,8 @@
       <module name="27springboot-beanlifecycle" options="-parameters" />
       <module name="admin-client" options="-parameters" />
       <module name="admin-server" options="-parameters" />
+      <module name="designpattern" options="-parameters" />
+      <module name="javase" options="-parameters" />
     </option>
   </component>
 </project>

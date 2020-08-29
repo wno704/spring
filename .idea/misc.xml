@@ -43,7 +43,6 @@
         <option value="$PROJECT_DIR$/security/10springboot-security-oauth2customize/pom.xml" />
         <option value="$PROJECT_DIR$/security/11springboot-security-oauth2config/pom.xml" />
         <option value="$PROJECT_DIR$/security/12springboot-security-oauth2sso/pom.xml" />
-        <option value="$PROJECT_DIR$/shiro/08springboot-shiro-jwt/pom.xml" />
         <option value="$PROJECT_DIR$/boot/18springboot-admin/admin-server/pom.xml" />
         <option value="$PROJECT_DIR$/boot/18springboot-admin/admin-client/pom.xml" />
         <option value="$PROJECT_DIR$/boot/20springboot-listener/pom.xml" />
@@ -54,6 +53,10 @@
         <option value="$PROJECT_DIR$/boot/25springboot-autoconfig/pom.xml" />
         <option value="$PROJECT_DIR$/boot/26springboot-registbean/pom.xml" />
         <option value="$PROJECT_DIR$/boot/27springboot-beanlifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/base/designpattern/pom.xml" />
+        <option value="$PROJECT_DIR$/base/javase/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/07springboot-shiro-session-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/08springboot-shiro-session-ehcache/pom.xml" />
       </list>
     </option>
   </component>
