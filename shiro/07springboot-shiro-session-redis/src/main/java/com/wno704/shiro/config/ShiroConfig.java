@@ -8,7 +8,6 @@ import org.apache.commons.lang3.StringUtils;
 import org.apache.shiro.codec.Base64;
 import org.apache.shiro.session.SessionListener;
 import org.apache.shiro.session.mgt.SessionManager;
-import org.apache.shiro.spring.LifecycleBeanPostProcessor;
 import org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor;
 import org.apache.shiro.spring.web.ShiroFilterFactoryBean;
 import org.apache.shiro.mgt.SecurityManager;
@@ -148,7 +147,6 @@ public class ShiroConfig {
         if(StringUtils.isNotBlank(redisPassword)){
             redisManager.setPassword(redisPassword);
         }
-        JedisPool jedisPool = new JedisPool(redisHost,redisPost);
 
         return redisManager;
     }
