@@ -1,0 +1,17 @@
+server:
+  port: 8788
+
+spring:
+  application:
+    name: User-Server
+
+eureka:
+  instance:
+    instance-id: user-server1
+    prefer-ip-address: off
+  client:
+    register-with-eureka: true     # 是否向注册中心注册自己
+    fetch-registry: true           # 是否检索服务
+    service-url:
+      #defaultZone: http://127.0.0.1:8761/eureka/
+      defaultZone: http://eureka01:9001/eureka/,http://eureka02:9002/eureka/

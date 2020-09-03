@@ -1,0 +1,17 @@
+server:
+  port: 8765
+
+spring:
+  application:
+    name: User-Web
+
+eureka:
+  instance:
+    instance-id: user-web
+    prefer-ip-address: off
+  client:
+    register-with-eureka: false
+    fetch-registry: true
+    service-url:
+      #defaultZone: http://127.0.0.1:8761/eureka/
+      defaultZone: http://eureka01:9001/eureka/,http://eureka02:9002/eureka/

@@ -1,0 +1,19 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: Eureka-Server
+
+eureka:
+  instance:
+    hostname: eureka01
+    instance-id: eureka-server1
+    prefer-ip-address: off
+  client:
+    register-with-eureka: true
+    fetch-registry: false
+    service-url:
+      defaultZone: http://eureka02:9002/eureka/
+  server:
+    enable-self-preservation: false
