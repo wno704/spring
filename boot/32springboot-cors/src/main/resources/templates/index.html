@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>跨域测试</title>
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body>
+<div id="hello"></div>
+<script type="text/javascript">
+    $(function () {
+        $.get("http://www.wno704.com:8080/hello", function (data) {
+            $("#hello").text(data);
+        })
+    });
+</script>
+</body>
+</html>
